@@ -6,7 +6,7 @@
 
 1. Backup up default config files in the /home/usr/.config/waybar/ folder
 2. Replace the config.jsonc and style.css files
-3. Go to your preffered theme folder (/home/usr/.config/omarchy/themes/) and add the example overrides.css and waybar.css files
+3. Go to your preferred theme folder (/home/usr/.config/omarchy/themes/) and add the example overrides.css and waybar.css files
 
 The overrides.css and waybar.css files are there for flexibility of making elements suitable to your preferred theme. 
 I encourage you to add overrides.css and waybar.css to your light and dark themes as well, and play around with changing the parameters. 
