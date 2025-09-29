@@ -1,4 +1,4 @@
-# A slight variation to your default Omarchy waybar. 
+# Omarchy waybar. 
 
 <img width="1920" height="37" alt="screenshot-2025-09-29_15-14-03" src="https://github.com/user-attachments/assets/ebf98770-a364-49ce-9103-7e2a47337813" />
 
