@@ -5,6 +5,8 @@
 
 <img alt="screenshot-2025-09-29_15-14-03" src="https://github.com/RiO7MAKK3R/Omarchy-Waybar-Config/blob/main/waybar-archlogo/archlogo.png" />
 
+<img alt="screenshot-2025-09-29_15-14-03" src="https://github.com/RiO7MAKK3R/Omarchy-Waybar-dots/blob/main/waybar-floating/floating.png" />
+
 
 ### How to use - 
 
